@@ -29,8 +29,8 @@ To try it for yourself, click [here](https://pass-forge.netlify.app/)
 
 ### Prerequisites
 
-- Node.js (v14 or later)
-- pnpm (v6 or later)
+- Node.js
+- pnpm
 
 ### Installation
 
