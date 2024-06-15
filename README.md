@@ -30,36 +30,32 @@ To try it for yourself, click [here](https://pass-forge.netlify.app/)
 ### Prerequisites
 
 - Node.js (v14 or later)
-- npm (v6 or later)
+- pnpm (v6 or later)
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/passforge.git
-   cd passforge
+   git clone https://github.com/deepanshu-rawat6/PassForge.git
+   cd PassForge
    ```
 
 2. Install dependencies:
    ```bash
-   npm install
+   pnpm install
    ```
 
 ### Running the App
 
 To start the development server:
 ```bash
-npm start
+pnpm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
