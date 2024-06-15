@@ -2,6 +2,8 @@
 
 **PassForge** is a powerful password generator built with React.js, designed to help you create strong, secure passwords effortlessly. Whether you need passwords for personal use or complex, high-security systems, PassForge offers a versatile and user-friendly solution.
 
+To try it for yourself, click [here](https://pass-forge.netlify.app/)
+
 ![passforge](./src/assets/image.png)
 
 ## Key Features
